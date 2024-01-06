@@ -1,5 +1,9 @@
+[!MasterHead](https://www.canva.com/design/DAF5HGMBsY4/lDniQ1KQTT58UrwE6TvEgw/edit?utm_content=DAF5HGMBsY4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 <h1 align="center">Hi 👋, I'm Javed Ali</h1>
 <h3 align="center">A frustrated Programmer and Data Analyst from Pakistan</h3>
+
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jave-dali&label=Profile%20views&color=0e75b6&style=flat" alt="jave-dali" /> </p>
 
