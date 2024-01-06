@@ -1,4 +1,5 @@
-[!MasterHead](https://www.canva.com/design/DAF5HGMBsY4/lDniQ1KQTT58UrwE6TvEgw/edit?utm_content=DAF5HGMBsY4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![github-header-image (1)](https://github.com/Jave-dAli/Jave-dAli/assets/121454957/5eaf6f53-9d5c-49f0-93a2-e26d74fb13a0)
+
 
 <h1 align="center">Hi 👋, I'm Javed Ali</h1>
 <h3 align="center">A frustrated Programmer and Data Analyst from Pakistan</h3>
