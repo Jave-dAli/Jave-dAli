@@ -35,3 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jave-dali&show_icons=true&locale=en" alt="jave-dali" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jave-dali&" alt="jave-dali" /></p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Jave-dAli&color=blue)
